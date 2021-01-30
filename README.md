@@ -24,7 +24,7 @@ Clone this repository to your workspace:
 
 ```
 cd ~/ros_workspace/src
-git clone https://github.com/husarion/rosbot_description.git
+git clone https://github.com/IntellisenseLab/CS4352-Practicals-Rosbot.git
 ```
 
 Install depencencies:
